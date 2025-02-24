@@ -1,2 +1,0 @@
-# nextjs-gsap
-nextjs-gsap
